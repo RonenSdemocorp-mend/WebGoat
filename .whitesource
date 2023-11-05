@@ -1,9 +1,3 @@
 {
-  "settingsInheritedFrom": "RonenSdemocorp-mend/whitesource-config@main",
-  "scanSettings": {
-      "enableReachability": true
-  },
-  "checkRunSettings": {
-    "strictMode": "warning"
-  }
+  "settingsInheritedFrom": "RonenSdemocorp-mend/whitesource-config@main"
 }
